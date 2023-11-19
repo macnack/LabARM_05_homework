@@ -1,0 +1,10 @@
+[submodule "arm05_sim"]
+	path = arm05_sim
+	url = https://github.com/macnack/arm05_sim.git
+[submodule "turtlebot3_bt"]
+	path = turtlebot3_bt
+	url = https://github.com/macnack/turtlebot3_bt.git
+[submodule "ros2_aruco"]
+	path = ros2_aruco
+	url = https://github.com/JMU-ROBOTICS-VIVA/ros2_aruco.git
+	branch = opencv_4.7
