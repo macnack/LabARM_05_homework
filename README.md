@@ -45,3 +45,6 @@ Serwer akcji nasłuchuje pozycji i ID znaczników Aruco z węzła aruco_node. Ot
 
 W trakcie działania akcji zwraca ilość pozostałych znaczników do wykrycia, a po zakończeniu wysyła pozycję oraz ID znacznika.
 Do poprawy jest uzupełnienie akcji o czas, w jakim ma być zrealizowane zadanie. Jeśli nie zostanie wykonane w określonym czasie, akcja kończy się niepowodzeniem.
+
+## arm05_sim
+launch został uzupełniony o dodatkowe węzły oraz o parametry konfiguracyjne
